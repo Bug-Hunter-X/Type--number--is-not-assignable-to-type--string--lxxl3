@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: type mismatch.  The `greeter` function expects a string argument, but a number is passed.  The `bug.ts` file shows the error, and `bugSolution.ts` demonstrates how to fix it by using type guards or type assertions.
